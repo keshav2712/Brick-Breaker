@@ -1,5 +1,5 @@
 # BRICK BREAKER
-Classis brick breaking game built using OOPS in python on terminal without curses or pygame
+Classic brick breaking game built using OOPS in python on terminal without curses or pygame
 
 ## Getting Started 
 
